@@ -1,0 +1,37 @@
+git conf --glo user.
+git init 
+git status 
+git add.
+git conf --list
+git commoi -m ""
+git push 
+
+master dev 
+git clone 地址
+git clone 
+git pull origin master 
+git pull origin master 
+git clone 
+git pull origin master 
+git checkout  dev
+git  remote add origin git
+git remoter remote 
+git remoter add origin git 
+
+
+
+
+git checkout master 
+git clone 
+git pull origin master 
+checkout 
+clone 
+git merge
+git merge master 
+git merge 
+git checkout master 
+git clone dz 
+git checkout master 
+git merge a 
+branch 
+barnch
